@@ -22,3 +22,5 @@ for phone, msg in rows:
     time.sleep(10)               # Wait for WhatsApp Web to load
     pyautogui.press('enter')     # Send message
     time.sleep(5)                # Small delay before next
+
+hgrfgrhjkfghifj
