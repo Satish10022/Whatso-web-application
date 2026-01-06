@@ -1,1 +1,0 @@
-# Whatso-web-application
